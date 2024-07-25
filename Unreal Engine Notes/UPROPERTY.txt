@@ -1,0 +1,1 @@
+this property will tell the unreal macro to "user wants to edit the variables and functions"  note:- uclass property will only allow to edit in blueprint or read only
